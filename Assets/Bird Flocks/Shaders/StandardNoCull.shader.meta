@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6ed801a078ecaf0489858666f8e4c905
+timeCreated: 1490648433
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25576
+  packageName: Bird Flock Bundle
+  packageVersion: 2.5
+  assetPath: Assets/Bird Flocks/Shaders/StandardNoCull.shader
+  uploadId: 715243

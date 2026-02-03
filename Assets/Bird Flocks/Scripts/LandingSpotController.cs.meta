@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 71f3c1fb4f1e13c43b7db4207a58c59d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25576
+  packageName: Bird Flock Bundle
+  packageVersion: 2.5
+  assetPath: Assets/Bird Flocks/Scripts/LandingSpotController.cs
+  uploadId: 715243

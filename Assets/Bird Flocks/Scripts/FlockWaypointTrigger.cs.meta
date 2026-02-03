@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 67e658b007d9b7c43a93628ae2d5c890
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25576
+  packageName: Bird Flock Bundle
+  packageVersion: 2.5
+  assetPath: Assets/Bird Flocks/Scripts/FlockWaypointTrigger.cs
+  uploadId: 715243

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 499a768ff24e544919ec943f1469ac28
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 6106
+  packageName: Sci-fi Transporter
+  packageVersion: 2.4.1
+  assetPath: Assets/[MiDaEm Assets]/Transporter/Shaders/NewHologramScanlines.shader
+  uploadId: 502037

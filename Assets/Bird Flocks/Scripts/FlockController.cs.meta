@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5564f499341508a43819ce17743cd92b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25576
+  packageName: Bird Flock Bundle
+  packageVersion: 2.5
+  assetPath: Assets/Bird Flocks/Scripts/FlockController.cs
+  uploadId: 715243

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4536d3e55d417454bb744c45e3f7ee8a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25576
+  packageName: Bird Flock Bundle
+  packageVersion: 2.5
+  assetPath: Assets/Bird Flocks/Scripts/LandingButtons.cs
+  uploadId: 715243

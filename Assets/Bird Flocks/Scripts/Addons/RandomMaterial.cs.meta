@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 52a5a7d2dcd4deb4798442ce3dabc279
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25576
+  packageName: Bird Flock Bundle
+  packageVersion: 2.5
+  assetPath: Assets/Bird Flocks/Scripts/Addons/RandomMaterial.cs
+  uploadId: 715243

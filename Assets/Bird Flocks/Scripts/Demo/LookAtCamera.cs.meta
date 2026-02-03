@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8d0ed2f73e37b9d4bb9784470bbda3ec
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 25576
+  packageName: Bird Flock Bundle
+  packageVersion: 2.5
+  assetPath: Assets/Bird Flocks/Scripts/Demo/LookAtCamera.cs
+  uploadId: 715243
